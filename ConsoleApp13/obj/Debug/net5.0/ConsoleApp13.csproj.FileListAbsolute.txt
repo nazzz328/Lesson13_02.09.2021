@@ -1,0 +1,16 @@
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\bin\Debug\net5.0\ConsoleApp13.exe
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\bin\Debug\net5.0\ConsoleApp13.deps.json
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\bin\Debug\net5.0\ConsoleApp13.runtimeconfig.json
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\bin\Debug\net5.0\ConsoleApp13.runtimeconfig.dev.json
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\bin\Debug\net5.0\ConsoleApp13.dll
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\bin\Debug\net5.0\ref\ConsoleApp13.dll
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\bin\Debug\net5.0\ConsoleApp13.pdb
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.AssemblyInfo.cs
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.dll
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\obj\Debug\net5.0\ref\ConsoleApp13.dll
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.pdb
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork13_02.09.2021\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.genruntimeconfig.cache
